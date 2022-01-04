@@ -39,9 +39,9 @@ span{
 .Experiences{
     display: flex;
     padding-left: 20px;
-    background-image: url(images/exp-bg.png);
-    background-position:center;
-    background-repeat:no-repeat;
+    /* background-image: url(images/exp-bg.png);
+    background-position:left;
+    background-repeat:no-repeat; */
 }
 .width{
    
@@ -69,14 +69,14 @@ a{
     
 }
 .BoxShadow-1{
-    box-shadow:25px 20px 30px black;
+    box-shadow:10px 10px 30px black;
     padding: 10px 40px;
     border-left: 10px solid;
     border-image: linear-gradient(cyan,purple) 30;
     border-radius: 15px;
 }
 .BoxShadow-2{
-    box-shadow:15px 20px 30px black;
+    box-shadow:10px 10px 30px black;
     padding: 10px 40px;
     border-left: 10px solid;
     border-image: linear-gradient( rgb(255, 166, 0),purple) 30;;
@@ -95,6 +95,6 @@ a:hover{
     background-image: linear-gradient(rgb(255, 136, 0),rgb(92, 59, 29));
 }
 #footer{
-    text-align: center;
-    font-weight: 100;
+    text-align:center;
+    font-weight:100;
 }
