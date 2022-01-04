@@ -69,14 +69,14 @@ a{
     
 }
 .BoxShadow-1{
-    box-shadow:30px 30px 30px black;
+    box-shadow:25px 20px 30px black;
     padding: 10px 40px;
     border-left: 10px solid;
     border-image: linear-gradient(cyan,purple) 30;
     border-radius: 15px;
 }
 .BoxShadow-2{
-    box-shadow:30px 30px 30px black;
+    box-shadow:15px 20px 30px black;
     padding: 10px 40px;
     border-left: 10px solid;
     border-image: linear-gradient( rgb(255, 166, 0),purple) 30;;
