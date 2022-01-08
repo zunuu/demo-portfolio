@@ -62,7 +62,7 @@ a{
     color: rgb(255, 255, 255);
     padding: 15px 40px;
     margin: 20%;
-    background-image: linear-gradient(orange,darkorange);
+    background-image: linear-gradient(orange,rgb(109, 61, 33));
     border-radius: 5px;
 }
 .padding{
